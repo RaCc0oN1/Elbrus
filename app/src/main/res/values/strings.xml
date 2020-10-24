@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Elbrus</string>
+    <string name="AuthBtn">Войти</string>
+    <string name="AuthText">Авторизация</string>
+    <string name="regButton">Регистрация</string>
+    <string name="categoryText">НАПРАВЛЕНИЯ</string>
+    <string name="cat1">МОЯ РОДНАЯ ШКОЛА</string>
+    <string name="cat2">МОЯ РОДНАЯ ШКОЛА</string>
+    <string name="cat3">ФИНАНСОВАЯ ГРАМОТНОСТЬ</string>
+    <string name="cat4">УРОКИ ЛИДЕРСТВА</string>
+    <string name="cat5">НАСТАВНИЧЕСТВО</string>
+    <string name="cat6">БОЕВАЯ СЛАВА</string>
+    <string name="todo">TODO</string>
+    <string name="shoptext">Мерч</string>
+    <string name="zero"> 0</string>
+    <string name="plustext">+</string>
+    <string name="minus">-</string>
+
+</resources>
