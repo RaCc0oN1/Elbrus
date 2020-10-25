@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115449055745",
+    "firebase_url": "https://elbrus-1c278.firebaseio.com",
+    "project_id": "elbrus-1c278",
+    "storage_bucket": "elbrus-1c278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115449055745:android:407a6d24e303eaa8df4e00",
+        "android_client_info": {
+          "package_name": "com.example.elbrus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115449055745-d0144c1trlvd9rnc7492jf87opd1apvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.elbrus",
+            "certificate_hash": "6e4ca091a8eae814ea5fc4fee5a4c5205c8b4fee"
+          }
+        },
+        {
+          "client_id": "115449055745-2jbveajrhrg8i3eh240g8v9dq5ntg3ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBntG368jagr_TeQNkmE8DEQSkiXTJ2Ar4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115449055745-2jbveajrhrg8i3eh240g8v9dq5ntg3ll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
